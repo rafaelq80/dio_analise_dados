@@ -1,7 +1,6 @@
 # Desafio de Banco de Dados – E-commerce
 
 
-
 ### 1. Objetivo
 
 O objetivo deste documento é apresentar o **esquema conceitual e físico** de um sistema de E-commerce, detalhando as entidades, atributos e relacionamentos necessários para o correto funcionamento da plataforma, contemplando clientes, produtos, fornecedores, vendedores terceiros, pedidos, pagamentos e entregas.

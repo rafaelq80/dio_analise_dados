@@ -24,15 +24,13 @@
 
 Domine todo o fluxo de análise de dados, do **ETL aos insights estratégicos**, utilizando **IA, Machine Learning, SQL, Excel e Microsoft Copilot**. Desenvolva **dashboards profissionais** e fortaleça seu portfólio com **6 projetos práticos**, trabalhando com **bases reais** e adquirindo as habilidades mais valorizadas pelo mercado.
 
-Receba **mentorias com experts**, participe de desafios práticos e prepare seu **LinkedIn e entrevistas** com orientação de RH, aumentando sua visibilidade na **Talent Match** e conectando-se com recrutadores em empresas parceiras.
-
 <br />
 
 ## Atividades
-
-
 
 ### 🎲 Banco de Dados
 
 - [Desafio de Modelagem de Dados - E-commerce](./db_ecommerce)
 - [Desafio de Modelagem de Dados - Oficina Mecânica](./db_oficina_mecanica)
+- [Desafio de Construção do Modelo Físico e Consultas - E-commerce](./db_ecommerce_2)
+- [Desafio de Construção do Modelo Físico e Consultas - Oficina Mecânica](./db_oficina_mecanica_2)

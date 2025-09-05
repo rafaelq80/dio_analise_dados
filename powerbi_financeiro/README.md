@@ -1,4 +1,4 @@
-# <img src="https://i.imgur.com/3CTEui8.png" alt="logo _ Power BI" width="5%"/>Dashboard de Vendas e Lucros - Power BI
+# <img src="https://i.imgur.com/3CTEui8.png" alt="logo _ Power BI" width="6%"/>Dashboard de Vendas e Lucros - Power BI
 
 
 
@@ -15,8 +15,7 @@ O objetivo é fornecer uma visão clara e analítica sobre o desempenho de venda
     -   Segmentos de clientes (Government, Small Business, Channel Partners, Midmarket, Enterprise).\
     -   Países (United States, Canada, Germany, France, Mexico).
     -   Dados de vendas, lucro, quantidade de unidades vendidas, preços e períodos (2013 e 2014).
--   **Dashboard no Power BI:** Criado para visualizar e explorar os dados de forma dinâmica, com
-    filtros por ano/mês e segmentações.
+-   **Dashboard no Power BI:** Criado para visualizar e explorar os dados de forma dinâmica, com filtros por ano/mês e segmentações.
 
 
 

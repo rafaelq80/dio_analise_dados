@@ -1,4 +1,4 @@
-# Dashboard de Vendas de Jogos Xbox
+# <img src="https://i.imgur.com/znQGB6o.png" title="source: imgur.com" width="5%"/> Dashboard de Vendas de Jogos Xbox
 
 
 

@@ -34,3 +34,14 @@ Domine todo o fluxo de análise de dados, do **ETL aos insights estratégicos**,
 - [Desafio de Modelagem de Dados - Oficina Mecânica](./db_oficina_mecanica)
 - [Desafio de Construção do Modelo Físico e Consultas - E-commerce](./db_ecommerce_2)
 - [Desafio de Construção do Modelo Físico e Consultas - Oficina Mecânica](./db_oficina_mecanica_2)
+
+
+### <img src="https://i.imgur.com/znQGB6o.png" title="source: imgur.com" width="5%"/>Excel
+
+- [Desafio de Dashboard - Vendas de Games - Xbox](./excel_games)
+
+
+### <img src="https://i.imgur.com/3CTEui8.png" title="source: imgur.com" width="5%"/>Power BI
+
+- [Desafio de Dashboard - Relatório Financeiro](./powerbi_financeiro)
+- [Desafio de Dashboard Criativo - Relatório Financeiro](./powerbi_financeiro_2)

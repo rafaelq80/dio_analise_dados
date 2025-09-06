@@ -28,6 +28,10 @@ Domine todo o fluxo de análise de dados, do **ETL aos insights estratégicos**,
 
 ## Atividades
 
+###  <img src="https://i.imgur.com/z4xfBhz.png" title="source: imgur.com" width="5%"/> Inteligência Artificial
+
+- [Análise de Sentimentos com Azure Language Studio](./ia_sentimentos)
+
 ### 🎲 Banco de Dados
 
 - [Desafio de Modelagem de Dados - E-commerce](./db_ecommerce)
@@ -45,3 +49,4 @@ Domine todo o fluxo de análise de dados, do **ETL aos insights estratégicos**,
 
 - [Desafio de Dashboard - Relatório Financeiro](./powerbi_financeiro)
 - [Desafio de Dashboard Criativo - Relatório Financeiro](./powerbi_financeiro_2)
+- [Desafio de Dashboard com Transformação de dados - Relatório RH](./powerbi_rh)
